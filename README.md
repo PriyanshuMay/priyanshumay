@@ -47,8 +47,7 @@
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
 </p><br>
 
-
-
-<p align="center" >
-<img src="infinite.gif" width="80%">
-</p>
+<p align="center">
+<a href="https://github.com/priyanshumay">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
+</a></p><br>
