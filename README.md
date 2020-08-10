@@ -1,5 +1,3 @@
- ## नमस्ते 🙏
-
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
