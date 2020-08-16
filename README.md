@@ -1,9 +1,9 @@
 <p align="center">
  
-[![GitHub followers](https://img.shields.io/github/followers/priyanshumay?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/DecimatorMind/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Priyanshu_Tiwari-blue?style=plastic-square&logo=Linkedin&logoColor=blue&color=brightGreen&link=https://www.linkedin.com/in/priyanshumay/)](https://www.linkedin.com/in/priyanshumay/)
-![Gmail](https://img.shields.io/badge/Gmail-tiwarimay2002@gmail.com-red?style=plastic&logo=Gmail&logoColor=red&color=brightGreen)
-![Reddit](https://img.shields.io/badge/Reddit-priyanshumay-red?style=plastic&logo=Reddit&logoColor=white&color=brightGreen)
+<img src="https://img.shields.io/github/followers/priyanshumay?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen" >
+<img src="https://img.shields.io/badge/Linkedin-Priyanshu_Tiwari-blue?style=plastic-square&logo=Linkedin&logoColor=blue&color=brightGreen&link=https://www.linkedin.com/in/priyanshumay" >
+<img src="https://img.shields.io/badge/Gmail-tiwarimay2002@gmail.com-red?style=plastic&logo=Gmail&logoColor=red&color=brightGreen" >
+<img src="https://img.shields.io/badge/Reddit-priyanshumay-red?style=plastic&logo=Reddit&logoColor=white&color=brightGreen" >
 <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
 
 </p>
@@ -53,9 +53,8 @@
 </p><br>
 
 <p align="center">
-<a href="https://github.com/priyanshumay">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=priyanshumay&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priyanshumay&theme=tokyonight&hide_langs_below=0)
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshumay&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" >\
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priyanshumay&theme=tokyonight&hide_langs_below=0" >
                                                                                                                                            
 </a></p><br>
