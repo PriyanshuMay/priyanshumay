@@ -1,7 +1,11 @@
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
- <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
- <a href="https://www.linkedin.com/in/priyanshu-tiwari-b85a7a194/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+ 
+[![GitHub followers](https://img.shields.io/github/followers/priyanshumay?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen)](https://www.github.com/DecimatorMind/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Priyanshu_Tiwari-blue?style=plastic-square&logo=Linkedin&logoColor=blue&color=brightGreen&link=https://www.linkedin.com/in/priyanshumay/)](https://www.linkedin.com/in/priyanshumay/)
+![Gmail](https://img.shields.io/badge/Gmail-tiwarimay2002@gmail.com-red?style=plastic&logo=Gmail&logoColor=red&color=brightGreen)
+![Reddit](https://img.shields.io/badge/Reddit-priyanshumay-red?style=plastic&logo=Reddit&logoColor=white&color=brightGreen)
+<img src="https://komarev.com/ghpvc/?username=priyanshumay" alt="priyanshumay" />
+
 </p>
 
 <p align="center">
@@ -50,5 +54,8 @@
 
 <p align="center">
 <a href="https://github.com/priyanshumay">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshumay&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=priyanshumay&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=priyanshumay&theme=tokyonight&hide_langs_below=0)
+                                                                                                                                           
 </a></p><br>
