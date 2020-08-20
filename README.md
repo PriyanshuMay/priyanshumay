@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/Linkedin-Priyanshu_Tiwari-blue?style=plastic-square&logo=Linkedin&logoColor=blue&color=brightGreen&link=https://www.linkedin.com/in/constusername" >
 <img src="https://img.shields.io/badge/Gmail-constusername@gmail.com-red?style=plastic&logo=Gmail&logoColor=red&color=brightGreen" >
 <img src="https://img.shields.io/badge/Reddit-constusername-red?style=plastic&logo=Reddit&logoColor=white&color=brightGreen" >
-<img src="https://komarev.com/ghpvc/?username=constusername" alt="constusername" />
 
 </p>
 
@@ -50,6 +49,10 @@
 
 <a href="https://github.com/constusername"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/constusername"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+</p><br>
+
+
+<p align="center">
 <a href="https://github.com/constusername"><img src="https://github-readme-stats.vercel.app/api?username=constusername&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" ></a>
 <a href="https://github.com/constusername"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=constusername&theme=tokyonight&hide_langs_below=0" ></a>
 
