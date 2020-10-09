@@ -1,56 +1,11 @@
-<p align="center">
- 
-<img src="https://img.shields.io/github/followers/ahampriyanshu?label=Follow&style=plastic&logo=github&logoColor=white&color=brightGreen" >
-<img src="https://img.shields.io/badge/Linkedin-Priyanshu_Tiwari-blue?style=plastic-square&logo=Linkedin&logoColor=blue&color=brightGreen&link=https://www.linkedin.com/in/ahampriyanshu" >
-<img src="https://img.shields.io/badge/Gmail-ahampriyanshu@gmail.com-red?style=plastic&logo=Gmail&logoColor=red&color=brightGreen" >
-<img src="https://img.shields.io/badge/Reddit-ahampriyanshu-red?style=plastic&logo=Reddit&logoColor=white&color=brightGreen" >
+- <a href="https://www.linkedin.com/ahampriyanshu/"><img src="https://img.shields.io/badge/LinkedIn%20@ahampriyanshu-DD2476?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://www.instagram.com/ahampriyanshu/"><img src="https://img.shields.io/badge/telegram%20@ahampriyanshu-344E86?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+- <a href="https://www.instagram.com/ahampriyanshu/"><img src="https://img.shields.io/badge/twitter%20@ahampriyanshu-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href="https://www.instagram.com/ahampriyanshu/"><img src="https://img.shields.io/badge/twitter%20@ahampriyanshu-red?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+- <a href="https://ahahmpriyanshu.github.io/"><img height="30px" src="https://img.shields.io/badge/My%20Website-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/VHeyXhvIqgRhAG2V1w/giphy.webp" width="50">  <img src="https://media3.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp" width="50">  <img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="50"> <img src="https://media3.giphy.com/media/PhTSmzCqkliqIJ9ZtZ/giphy.webp" width="50"> <img src="https://media3.giphy.com/media/hulw0MspQmecGGQpEH/giphy.webp" width="50"><img src="https://media3.giphy.com/media/ZeFNIbVnoEqyVKU3nL/giphy.webp" width="50"><img src="https://media3.giphy.com/media/U6M4L81SA1rVdfr8ZK/giphy.webp" width="50"><img src="https://media3.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
 
-<p align="center">
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/scala-red.svg?style=for-the-badge&logo=scala&logoColor=red&labelColor=ffffff" alt="scala"></a>
-</p><br>
-
-<p align="center">					    
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/React Native-3aabe8.svg?style=for-the-badge&logo=react&logoColor=3aabe8&labelColor=ffffff" alt="react native"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=ffffff" alt="tensorflow"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/ahampriyanshu">
-<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
-</a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/ahampriyanshu">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
-</a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
-</p><br>
-
-<p align="center">
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
-<a href="https://github.com/ahampriyanshu"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
-</p>
-<br>
-
-<p align="center">
-<a href="https://github.com/ahampriyanshu"><img src="https://github-readme-stats.vercel.app/api?username=ahampriyanshu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" ></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ahampriyanshu&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
