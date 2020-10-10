@@ -2,8 +2,6 @@
 - <a  href="https://wa.me/919917956610?text=Hi%20Priyanshu"><img src="https://img.shields.io/badge/Whatsapp%20@9917956610-66D454?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 - <a href="https://telegram.org/"><img src="https://img.shields.io/badge/telegram%20@ahampriyanshu-2CA5DF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 - <a href="https://www.twitter.com/ahampriyanshu/"><img src="https://img.shields.io/badge/twitter%20@ahampriyanshu-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://www.reddit.com/user/ahampriyanshu/"><img src="https://img.shields.io/badge/twitter%20@ahampriyanshu-EB4221?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-- <a href="https://ahahmpriyanshu.github.io/"><img height="30px" src="https://img.shields.io/badge/My%20Website-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 
 <p align="center">
