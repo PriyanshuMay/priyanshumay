@@ -3,6 +3,13 @@
 - <a href="https://telegram.org/"><img src="https://img.shields.io/badge/telegram%20@ahampriyanshu-2CA5DF?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 - <a href="https://www.twitter.com/ahampriyanshu/"><img src="https://img.shields.io/badge/twitter%20@ahampriyanshu-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
+[<img align="center" alt="ahampriyanshu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="ahampriyanshu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="ahampriyanshu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://ahampriyanshu.github.io
+[twitter]: https://twitter.com/ahampriyanshu
+[linkedin]: https://www.linkedin.com/in/ahampriyanshu
 
 <p align="center">
 <img src="https://art.pixilart.com/0d92ea76c0f540a.gif" width="50"> 
@@ -15,3 +22,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ahampriyanshu&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
